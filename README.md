@@ -11,6 +11,12 @@
 
 ## 2. Find a safe, level place to park 
 
+## 3. Apply the parking brake 
+
+## 4. Loosen the lug nuts
+
+## 5. 
+
 
 
       
