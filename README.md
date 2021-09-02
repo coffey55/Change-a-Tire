@@ -4,8 +4,7 @@
 ## Steps to change a tire:
 
 ## 1. Make sure you have all necessary tools, including: 
--Lug Wrench
--Spare Tire
--Jack
+A lug wrench, a spare tire, and a jack 
+
 
       
