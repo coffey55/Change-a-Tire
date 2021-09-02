@@ -1,5 +1,4 @@
-# Change-a-Tire
-![image](https://user-images.githubusercontent.com/89995767/131888861-370d6b82-915f-4f14-99ec-4ef932a4d7bb.png)
+# How to change a tire![image](https://user-images.githubusercontent.com/89995767/131888861-370d6b82-915f-4f14-99ec-4ef932a4d7bb.png)
 
 [Necessary Tools](https://github.com/coffey55/Change-a-Tire/edit/main/README.md),
 [Jack Positioning](https://user-images.githubusercontent.com/89995767/131892626-b2734e9d-bfb8-4c5a-8327-d387e03268dd.png)
@@ -13,9 +12,18 @@
 * Jack Stands
 
 
-## 2. Find a safe, level place to park 
+## 2. Steps
 
-## 3. Apply the parking brake 
+* Find a level place to park
+* Apply parking break
+* Once out of vehicle, jack vehicle up about a foot - 2 feet
+* Apply jacks under vehicle to hold vehicle up, then lower vehicle down onto the jacks
+* Loosen lug nuts off of the wheel using the tire iron/Lug wrench
+* Once all lug nuts are removed, remove the wheel from the vehicle
+* Apply spare tire
+* Reapply lug nuts onto new wheel using the tire iron/lug wrench
+* jack vehicle back up, off of the jacks, remove jacks, then lower vehicle back to the ground
+
 
 ## 4. Loosen the lug nuts
 
@@ -24,6 +32,7 @@
 
 
 ## 6. Raise the vehicle with the jack. Once finished, position the jack stands securely underneath the car and gently lower the car onto them.
+
 
 ## 7. Unscrew the lug nuts
 
