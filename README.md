@@ -26,22 +26,8 @@
 * jack vehicle back up, off of the jacks, remove jacks, then lower vehicle back to the ground
 
 
-## 4. Loosen the lug nuts
-
-## 5. Position the jack securely beneath the vehicle 
 ![image](https://user-images.githubusercontent.com/89995767/131892626-b2734e9d-bfb8-4c5a-8327-d387e03268dd.png)
 
-
-## 6. Raise the vehicle with the jack. Once finished, position the jack stands securely underneath the car and gently lower the car onto them.
-
-
-## 7. Unscrew the lug nuts
-
-## 8. Remove the flat tire
-
-## 9. Mount the spare tire on the lug bolts
-
-## 10. Tighten the lug nuts by hand 
 
 
       
