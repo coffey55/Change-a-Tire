@@ -9,6 +9,8 @@
 ## - Jack 
 ## - Jack Stands
 
+## 2. Find a safe, level place to park 
+
 
 
       
