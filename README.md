@@ -5,10 +5,10 @@
 ## Steps to change a tire:
 
 ## 1. Make sure you have all necessary tools, including: 
-* Lug Wrench
-* Spare Tire
-* Jack 
-* Jack Stands
+#### - Lug Wrench
+#### - Spare Tire
+#### - Jack 
+#### - Jack Stands
 
 
 ## 2. Find a safe, level place to park 
@@ -17,7 +17,9 @@
 
 ## 4. Loosen the lug nuts
 
-## 5. Position the jack securely beneath the vehicle and jack the car up. Once finished, position the jack stands underneath the car and gently lower the car onto them.
+## 5. Position the jack securely beneath the vehicle
+
+## 6. Raise the vehicle with the jack. Once finished, position the jack stands securely underneath the car and gently lower the car onto them.
 
 
 
