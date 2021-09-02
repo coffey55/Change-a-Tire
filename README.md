@@ -17,7 +17,7 @@
 
 ## 4. Loosen the lug nuts
 
-## 5. 
+## 5. Position the jack securely beneath the vehicle and jack the car up. Once finished, position the jack stands underneath the car and gently lower the car onto them.
 
 
 
