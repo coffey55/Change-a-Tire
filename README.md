@@ -1,7 +1,9 @@
 # Change-a-Tire
 ![image](https://user-images.githubusercontent.com/89995767/131888861-370d6b82-915f-4f14-99ec-4ef932a4d7bb.png)
 
-[Necessary Tools](https://github.com/coffey55/Change-a-Tire/edit/main/README.md)
+[Necessary Tools](https://github.com/coffey55/Change-a-Tire/edit/main/README.md),
+[Jack Positioning](https://user-images.githubusercontent.com/89995767/131892626-b2734e9d-bfb8-4c5a-8327-d387e03268dd.png)
+
 ## Steps to change a tire:
 
 ## 1. Make sure you have all necessary tools, including: 
