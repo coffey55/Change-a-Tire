@@ -8,6 +8,7 @@
 ## - Spare Tire
 ## - Jack 
 ## - Jack Stands
+![image](https://user-images.githubusercontent.com/89996015/131890639-68d655df-1250-4034-9e9a-b3a602aec848.png)
 
 ## 2. Find a safe, level place to park 
 
