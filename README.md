@@ -4,10 +4,10 @@
 ## Steps to change a tire:
 
 ## 1. Make sure you have all necessary tools, including: 
-## - Lug Wrench
-## - Spare Tire
-## - Jack 
-## - Jack Stands
+#### - Lug Wrench
+#### - Spare Tire
+#### - Jack 
+#### - Jack Stands
 ![image](https://user-images.githubusercontent.com/89996015/131890852-4298737d-33c8-46b5-8fe4-fa2bb8e1bde8.png)
 
 
